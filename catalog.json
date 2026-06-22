@@ -1,0 +1,67 @@
+{
+  "source": "https://github.com/CommonPaper",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "templates": [
+    {
+      "name": "Mutual Non-Disclosure Agreement (MNDA)",
+      "description": "A standard mutual NDA created by a committee of over 40 attorneys representing technology vendors, procurement teams, boutique firms, and Big Law. Covers confidential information exchanged between two parties evaluating a potential business relationship.",
+      "filename": "templates/Mutual-NDA.md"
+    },
+    {
+      "name": "Mutual NDA Cover Page",
+      "description": "The cover page template to accompany the Common Paper Mutual NDA. Parties fill in the business-specific terms (names, governing law, etc.) and sign this document; it incorporates the MNDA Standard Terms by reference.",
+      "filename": "templates/Mutual-NDA-coverpage.md"
+    },
+    {
+      "name": "Cloud Service Agreement (CSA)",
+      "description": "A standard agreement for selling and buying cloud software and SaaS products, created by a committee of over 40 attorneys. Covers subscription terms, data handling, liability, and other standard SaaS commercial terms.",
+      "filename": "templates/CSA.md"
+    },
+    {
+      "name": "Design Partner Agreement",
+      "description": "A standard agreement between a software vendor and an early-stage design partner (customer) who helps shape product development in exchange for early or discounted access. Covers feedback obligations, IP ownership, and limited-use rights.",
+      "filename": "templates/design-partner-agreement.md"
+    },
+    {
+      "name": "Service Level Agreement (SLA)",
+      "description": "A standard SLA designed to be used alongside the Common Paper Cloud Service Agreement (CSA). Defines uptime commitments, measurement methodology, and remedies for service failures.",
+      "filename": "templates/sla.md"
+    },
+    {
+      "name": "Professional Services Agreement (PSA)",
+      "description": "A standard agreement for professional and consulting services engagements. Covers statements of work, deliverables, payment terms, IP ownership, and confidentiality for time-and-materials or fixed-fee projects.",
+      "filename": "templates/psa.md"
+    },
+    {
+      "name": "Data Processing Agreement (DPA)",
+      "description": "A standard data processing agreement governing how a vendor processes personal data on behalf of a customer. Addresses GDPR and equivalent data-protection requirements including sub-processors, data subject rights, and breach notification.",
+      "filename": "templates/DPA.md"
+    },
+    {
+      "name": "Software License Agreement",
+      "description": "A standard agreement for licensing on-premise or downloadable software. Covers license scope, restrictions, maintenance and support, payment terms, and liability, created by a committee of over 40 attorneys.",
+      "filename": "templates/Software-License-Agreement.md"
+    },
+    {
+      "name": "Partnership Agreement",
+      "description": "A standard reseller and referral partnership agreement. Covers partner tiers, revenue share, lead registration, co-marketing obligations, IP usage, and termination rights for technology partnership programs.",
+      "filename": "templates/Partnership-Agreement.md"
+    },
+    {
+      "name": "Pilot Agreement",
+      "description": "A short-term evaluation or trial agreement allowing a prospective customer to test a product or service before committing to a full commercial contract. Covers pilot scope, duration, fees (if any), data handling, and transition to a full agreement.",
+      "filename": "templates/Pilot-Agreement.md"
+    },
+    {
+      "name": "Business Associate Agreement (BAA)",
+      "description": "A standard HIPAA Business Associate Agreement governing the handling of Protected Health Information (PHI) by a service provider on behalf of a covered entity. Addresses permitted uses, safeguards, breach reporting, and termination.",
+      "filename": "templates/BAA.md"
+    },
+    {
+      "name": "AI Addendum",
+      "description": "An addendum to be attached to a commercial agreement (e.g. CSA or Software License Agreement) when the product or service incorporates AI/ML capabilities. Addresses AI-specific concerns such as training data usage, output accuracy disclaimers, and acceptable-use restrictions.",
+      "filename": "templates/AI-Addendum.md"
+    }
+  ]
+}
