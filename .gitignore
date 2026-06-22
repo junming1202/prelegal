@@ -1,0 +1,133 @@
+# =============================================================================
+# Python / FastAPI
+# =============================================================================
+
+# Byte-compiled / optimised / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.env.bak
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+.eggs/
+wheels/
+
+# pytest / testing
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+.tox/
+nosetests.xml
+*.cover
+
+# mypy / type checkers
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pytype/
+
+# Ruff / linting caches
+.ruff_cache/
+
+# =============================================================================
+# Environment & Secrets
+# =============================================================================
+
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+secrets.json
+
+# =============================================================================
+# Next.js / Node.js
+# =============================================================================
+
+node_modules/
+.npm
+.yarn/
+.pnp
+.pnp.js
+
+# Next.js build output
+.next/
+out/
+
+# Vercel
+.vercel
+
+# Turbopack
+.turbo
+
+# Dependency lock files (keep one; ignore the others based on your package manager)
+# Uncomment the ones you don't use:
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# ESLint / Prettier caches
+.eslintcache
+.prettiercache
+
+# =============================================================================
+# Databases
+# =============================================================================
+
+*.db
+*.sqlite
+*.sqlite3
+
+# =============================================================================
+# Docker
+# =============================================================================
+
+.dockerignore.local
+
+# =============================================================================
+# IDE / Editor
+# =============================================================================
+
+.vscode/
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# =============================================================================
+# Logs & Runtime
+# =============================================================================
+
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# =============================================================================
+# Misc
+# =============================================================================
+
+.cache/
+tmp/
+temp/
